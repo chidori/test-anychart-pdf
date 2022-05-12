@@ -1,0 +1,22 @@
+{
+  "name": "gantt-export",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack serve",
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "anychart": "^8.11.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2",
+    "webpack-dev-server": "^4.9.0",
+    "html-webpack-plugin": "^5.5.0"
+  }
+}
